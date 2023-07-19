@@ -15,5 +15,7 @@ function minToFront(array) {
     return array;
 }
 
-var test10 = minToFront([45, 28, 115, 3, 51])
+var test1 = minToFront([4, 2, 1, 3, 5]);
+console.log(test1)
+var test2 = minToFront([45, 28, 115, 3, 51]);
 console.log(test10);
